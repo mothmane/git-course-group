@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 loging : **** pass : *****
 test=pagemathonal
+loging : Paolo pass : *****
+=======
+
+>>>>>>> 0ee21ed65a683e76dbc91ab2919ec4987ded1b71
